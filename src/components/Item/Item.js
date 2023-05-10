@@ -1,16 +1,16 @@
  import './Item.js'
  import { Link } from 'react-router-dom';
 
- const Item = ({ id, name, img, price, stock})=> {
+ const Item = ({ id, title, image, price, stock})=> {
     return (
         <article className = "cardItem">
             <header className="Header">
                 <h2 className="ItemHeader">
-                    {name}
+                    {title}
                 </h2>
             </header>
             <picture>
-                <img src={img} alt={name} className="ItemImg" />
+                <img src={image} alt={title} className="ItemImg" />
             </picture>
             <section>
                 <p className="Info">

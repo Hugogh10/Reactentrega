@@ -24,7 +24,7 @@ Este componente muestra un formulario de validación para confirmar la compra. E
 - Firebase Firestore: Utilizado como base de datos para almacenar y gestionar la información de los productos y las compras.
 
 ## Pasos para Ejecutar el Proyecto
-1. Clonar el repositorio del proyecto desde [URL del repositorio].
+1. Clonar el repositorio del proyecto desde [https://github.com/Hugogh10/Reactentrega.git].
 2. Instalar las dependencias del proyecto utilizando el comando `npm install`.
 3. Configurar la conexión a Firebase Firestore.
 4. Ejecutar el proyecto utilizando el comando `npm start`.

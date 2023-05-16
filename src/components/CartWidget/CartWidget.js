@@ -1,5 +1,5 @@
 import'./CartWidget.css'
-import cart from './assets/carritoicon.jpeg'
+import cart from './assets/shopping-cart3.png'
 import { useContext } from 'react'
 import { CartContext } from '../../context/CartContext'
 import { Link } from 'react-router-dom'

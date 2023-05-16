@@ -25,18 +25,18 @@
     margin-left: 10px;
     font-size: 18px;
     text-decoration: none;
-    color: white;
+    color: rgb(30, 0, 0);
     transition: 0.3s ease-in-out;
   }
   
   .Option:hover {
-    color: #d40000;
+    color: #ff6d6d;
   }
   
   .ActiveOption {
     margin-left: 10px;
     font-size: 18px;
     text-decoration: none;
-    color: #351800;
+    color: rgb(255, 110, 110)
   }
   
